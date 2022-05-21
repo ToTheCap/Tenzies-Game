@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Karla&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Karla', 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, 'Courier New', monospace;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
